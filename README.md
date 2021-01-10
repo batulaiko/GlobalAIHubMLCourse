@@ -1,7 +1,7 @@
 # GAIH Student Repo
 ![](img/logo.png)
 
-####Course Date: 04-01-2020 / 08-01-2020**
+####Course Date: 04-01-2020 / 08-01-2020
 ####Name: Batuhan
 ####Surname: YILDIRIM
 ####Email: batu.yildirim@outlook.com.tr
