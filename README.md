@@ -1,10 +1,10 @@
 # GAIH Student Repo
 ![](img/logo.png)
 
-####Course Date: 04-01-2020 / 08-01-2020
-####Name: Batuhan
-####Surname: YILDIRIM
-####Email: batu.yildirim@outlook.com.tr
+#### Course Date: 04-01-2020 / 08-01-2020
+#### Name: Batuhan
+#### Surname: YILDIRIM
+#### Email: batu.yildirim@outlook.com.tr
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
